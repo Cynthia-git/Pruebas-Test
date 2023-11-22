@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-19T19:41:01 CST" name="Default suite" finished-at="2023-11-19T19:41:33 CST" duration-ms="31809">
+    <groups>
+    </groups>
+    <test started-at="2023-11-19T19:41:01 CST" name="Default test" finished-at="2023-11-19T19:41:33 CST" duration-ms="31809">
+      <class name="final_test.Prueba">
+        <test-method signature="invocarNavegador()[pri:-100, instance:final_test.Prueba@670002]" started-at="2023-11-19T19:41:01 CST" name="invocarNavegador" finished-at="2023-11-19T19:41:04 CST" duration-ms="2818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invocarNavegador -->
+        <test-method signature="verificarLoginAseisNew()[pri:1, instance:final_test.Prueba@670002]" started-at="2023-11-19T19:41:04 CST" name="verificarLoginAseisNew" finished-at="2023-11-19T19:41:04 CST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarLoginAseisNew -->
+        <test-method signature="editar()[pri:2, instance:final_test.Prueba@670002]" started-at="2023-11-19T19:41:04 CST" name="editar" finished-at="2023-11-19T19:41:33 CST" duration-ms="28674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editar -->
+      </class> <!-- final_test.Prueba -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
